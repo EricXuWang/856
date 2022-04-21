@@ -1,4 +1,4 @@
-# FLSim
+# CISC 856
 
 ## About
 
