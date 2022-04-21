@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to CISC 856 course project, we have three group members Zhihao Dong, Zifeng (Gary) Guo
+Welcome to CISC 856 course project, we have three group members Zhihao Dong, Zifeng (Gary) Guo, Xu Wang
 
 
 ## Installation
