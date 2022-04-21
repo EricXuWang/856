@@ -15,7 +15,7 @@ GAMMA = 0.99 # discount ratio for DDQN
 
 
 #Training parameters
-RAM_NUM_EPISODE = 10 #500
+RAM_NUM_EPISODE = 500 #500
 # VISUAL_NUM_EPISODE = 3000
 EPS_INIT = 1 # in the epsilon greedy strategy, we need an epsilon, at first, epsilon = 1
 EPS_DECAY = 0.94 # at each iteration, epsilon decreases according to the decay ratio = 0.995
