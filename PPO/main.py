@@ -1,8 +1,7 @@
 import numpy as np
-from utils import *
-from agent import *
+from utils.agent import *
 from config import *
-from FL_env import *
+from utils.FL_env import *
 import multiprocessing as mp
 import matplotlib.pyplot as plt
 np.random.seed(3)
