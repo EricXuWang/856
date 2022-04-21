@@ -27,7 +27,7 @@ conda activate CISC856
 
 ### Simulation
 
-To start a simulation, run [`main.py`](run.py) from the repository's root directory:
+To start a simulation, run [`main.py`](main.py) from the repository's root directory:
 
 ```shell
 python main.py
