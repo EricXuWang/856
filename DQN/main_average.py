@@ -57,19 +57,9 @@ def main(q):
 
 
 if __name__ == '__main__':
-    # R_log =[]
-    # # init environment
-    # env = env_fl()
-    # # init agent
-    # agent = Agent(env.observation_space, env.action_space, BATCH_SIZE, LEARNING_RATE, TAU, GAMMA, DEVICE)
-    # # train
-    # _, rewards_log = train(env, agent, RAM_NUM_EPISODE, EPS_INIT, EPS_DECAY, EPS_MIN, MAX_T)
-    # # track rewards
-    # R_log.append(rewards_log)
-    #
+
     # init queue with multi-process
     q = mp.Queue()
-    # q.put(R_log)
 
     # requre 7 workers
     for _ in range(7):
